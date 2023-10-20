@@ -18,3 +18,7 @@ Relationships of type/severity of crime with age groups and why? (Linear regress
 
 Data Dictionaries
 
+Arrests: https://docs.google.com/spreadsheets/d/1eKYVIP7znulKjWHawwTpxCublB-O9iFAE2Dhe2llKXU/edit?usp=sharing
+Demographic: https://docs.google.com/spreadsheets/d/1fhtCgaZ_fc895UmbxxcLoI940_3ETqiV5id4M5KXshk/edit?usp=sharing
+Financial: https://docs.google.com/spreadsheets/d/1oBw3m9Ia_xSCg5YZmroMv2MEuZaAv76NChkbfLsJK2c/edit?usp=sharing
+
