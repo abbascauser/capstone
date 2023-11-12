@@ -1,5 +1,5 @@
 # capstone
-This will house all working files and notes on my captstone project
+This repo will house all working files and notes on my captstone project
 
 ## An Analysis of crime in NYC
 
@@ -16,9 +16,13 @@ What underlying demographic features (excluding race/ethnicity) are most heavily
 Relationships of type/severity of crime with age groups and why? (Linear regression)
 - Why is this useful: “Customer” segmentation to develop a targeted approach for action
 
-Data Dictionaries
+##
 
-Arrests: https://docs.google.com/spreadsheets/d/1eKYVIP7znulKjWHawwTpxCublB-O9iFAE2Dhe2llKXU/edit?usp=sharing
-Demographic: https://docs.google.com/spreadsheets/d/1fhtCgaZ_fc895UmbxxcLoI940_3ETqiV5id4M5KXshk/edit?usp=sharing
-Financial: https://docs.google.com/spreadsheets/d/1oBw3m9Ia_xSCg5YZmroMv2MEuZaAv76NChkbfLsJK2c/edit?usp=sharing
+Sprint 1: 
+- For this submission, defined the question, introduced datasets and discussed initial observations
+- 
 
+Sprint 2: 
+- For this submission, I used variables in the arrests data alone to see if we can predict the type of crime based on burrough, age group, sex and day of week. 
+- Given this is a limited list of variables so did not expect a good result
+- Next step would be to use the demographic data (now that we were able connect lat lon and community district) to see if the model can be more robust.
