@@ -20,9 +20,18 @@ Relationships of type/severity of crime with age groups and why? (Linear regress
 
 Sprint 1: 
 - For this submission, defined the question, introduced datasets and discussed initial observations
-- 
 
 Sprint 2: 
 - For this submission, I used variables in the arrests data alone to see if we can predict the type of crime based on burrough, age group, sex and day of week. 
 - Given this is a limited list of variables so did not expect a good result
 - Next step would be to use the demographic data (now that we were able connect lat lon and community district) to see if the model can be more robust.
+
+Spring 3:
+- For this submission, merged the arrests dataset with demographic and age datasets by community district
+- Ran logistic regression for each type of crime to get variables that were most impacting
+- Ran classification models (logistic / decision tree) using independent variables and got an 10+ percent improvement in accuracy scores
+- For next steps:
+-   Plot out decision tree
+-   Identify additional attributes that would move the needle on model accuracy and add precision and recall
+-   Run grid search to identify best model type and hyperparameters
+- For demo day create a tool to be able to predict type of crime by a number of selections and an interactive tableau map
